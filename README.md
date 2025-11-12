@@ -36,6 +36,21 @@ The technologies involved are:
 - SQL as the main language for storing, manipulating, and retrieving data in our Data Warehouse
 - Matplotlib and Seaborn for the visualizations
 - Jupyter notebooks to make the report an interactive way
+  
+## 💡 Technologies Used
+
+| Category | Technology |
+|-----------|-------------|
+| **Language** | 🐍 Python 3.9+ |
+| **Data Manipulation** | 🧮 Pandas |
+| **API Consumption** | 🌐 Requests |
+| **Database Engine** | 🗄️ SQLite |
+| **Query Language** | 🧠 SQL |
+| **Visualization** | 📊 Matplotlib, Seaborn |
+| **Orchestration** | ⚡ Apache Airflow |
+| **Environment** | 💻 Jupyter Notebooks, Virtualenv |
+
+---
 
 ## Instalation
 
