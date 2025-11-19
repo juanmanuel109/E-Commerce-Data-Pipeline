@@ -27,6 +27,6 @@ airflow/.airflow/
 .DS_Store
 
 #carpeta de test completa
-tests/
+
 .python-version
 ASSIGNMENT.md
