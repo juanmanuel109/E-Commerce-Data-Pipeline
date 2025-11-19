@@ -25,3 +25,6 @@ airflow/.airflow/
 
 # OS files
 .DS_Store
+
+#carpeta de test completa
+tests/
