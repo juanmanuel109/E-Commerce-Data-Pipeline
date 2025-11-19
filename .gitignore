@@ -27,4 +27,5 @@ airflow/.airflow/
 .DS_Store
 
 #carpeta de test completa
-tests/
+tests/__pycache__/
+tests/query_results/
